@@ -20,10 +20,11 @@ In this project, you can interact with the UI and navigate to many screens such 
 ## Illustrations
 
 ### Home Screen
-
+<img width="643" alt="Screenshot 2024-01-09 at 23 15 39" src="https://github.com/HTTuong/finland-weather-app/assets/89579792/eefc863d-478d-4516-acc6-f4b359483be4">
 
 
 ### Forecast Screen
+<img width="643" alt="Screenshot 2024-01-09 at 23 16 01" src="https://github.com/HTTuong/finland-weather-app/assets/89579792/d6fee71d-fce6-4576-9db3-013658fa6fc5">
 
 
 
